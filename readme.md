@@ -1,5 +1,5 @@
 # Demo
-git
+git new
 
 
 
